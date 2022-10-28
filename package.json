@@ -1,0 +1,41 @@
+{
+  "name": "discord-chatbot",
+  "version": "0.0.1",
+  "description": " A powerful JavaScript library to make discord chatbot!",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sohom829/discord-chatbot.git"
+  },
+  "keywords": [
+    "API",
+    "AI",
+    "Chatbot",
+    "Discord",
+    "Discord.js",
+    "Javascript"
+  ],
+  "author": "Mohtasim Alam Sohom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sohom829/discord-chatbot/issues"
+  },
+  "homepage": "https://github.com/Sohom829/discord-chatbot#readme",
+  "dependencies": {
+    "chalk": "4.1.0",
+    "dotenv": "^16.0.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.7",
+    "eslint": "8.2.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "2.25.2",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
+  }
+}
