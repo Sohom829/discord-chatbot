@@ -1,5 +1,5 @@
 {
-  "name": "discord-chatbot",
+  "name": "djs-chatbot",
   "version": "0.0.1",
   "description": " A powerful JavaScript library to make discord chatbot!",
   "main": "./dist/index.js",
